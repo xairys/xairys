@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xairys&label=Profil'e%20giren%20ki%C5%9Fi&color=e869b3&style=flat" alt="xairys" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xairys" alt="xairys" /></a> </p>
-
 <h3 align="left">Beni takip et:</h3>
 <p align="left">
 <a href="https://instagram.com/canbeycikk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="canbeycikk" height="30" width="40" /></a>
