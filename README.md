@@ -9,7 +9,9 @@
 <p align="left">
 <a href="https://instagram.com/canbeycikk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="canbeycikk" height="30" width="40" /></a>
   <a href="https://dev.to/xairys" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="xairys" height="30" width="40" /></a>
-  <a href="https://dev.to/xairys" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="xairys" height="30" width="40" /></a>
+</p>
+<p>
+  <a href="https://discord.com/users/989523947404029982" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="xairys" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
