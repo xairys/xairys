@@ -1,7 +1,7 @@
-<h1 align="left">Selam 👋, ben Çağlar</h1>
-<h3 align="left">Yeni yeni yazılım öğrenen bir Türk geliştiriciyim.</h3>
+<h1 align="center">Selam 👋, ben Çağlar</h1>
+<h3 align="center">Yeni yeni yazılım öğrenen bir Türk geliştiriciyim.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xairys&label=Profil'e%20giren%20ki%C5%9Fi&color=e869b3&style=flat" alt="xairys" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=xairys&label=Profil'e%20giren%20ki%C5%9Fi&color=e869b3&style=flat" alt="xairys" /> </p>
 
 <h3 align="left">Beni takip et:</h3>
 <p align="left">
