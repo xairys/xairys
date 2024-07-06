@@ -1,5 +1,5 @@
-<h1 align="center">Selam 👋,ben Çağlar</h1>
-<h3 align="center">yeni bir Türk geliştiriciyim.</h3>
+<h1 align="center">Selam 👋, ben Çağlar</h1>
+<h3 align="center">Yeni yeni yazılım öğrenen bir Türk geliştiriciyim.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xairys&label=Profil'e%20giren%20ki%C5%9Fi&color=e869b3&style=flat" alt="xairys" /> </p>
 
